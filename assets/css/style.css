@@ -1,1 +1,29 @@
-/* Holiii otra vez */
+*{
+	margin:0;
+	padding: 0;
+	font-family: 'Merriweather Sans', sans-serif;
+}
+/*titulo y nav*/
+
+.titulo-news h1{
+	font-size: 35px;
+}
+.titulo-news span{
+	color: #e84148;
+}
+.nav-entero{
+	border-bottom: 2px solid #e84148; 
+}
+.navbar-default{
+	background-color: transparent;
+	border-color: transparent;
+}
+.lupa{
+	background-color: #e84148;
+	width: 60px;
+	height: 50px;
+	border-radius: 9px;
+}
+.lupa span{
+	color: white;
+}
