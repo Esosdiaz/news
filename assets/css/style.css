@@ -30,10 +30,21 @@
 
 /*segunda seccion*/
 .playa-corriendo{
+	width:60%;
 }
-.foto1{
+.niños-abrazo{
+	width:40%;
+}
+.mina-flor{
+	width: 50%;
+	padding-top: 8vh;
+}
+.familia-feliz{
+	width: 50%;
+	padding-top: 8vh;
+
+}
+.foto1, .foto2, .foto3, .foto4{
 	width: 100%;
 }
-.foto2{
-	width: 80%;
-}
+
